@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Distill Blog ",
+    "description": "Welcome to our new blog, My Distill Blog . We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Vinita Vader",
+        "url": "www.vvader24.com"
+      }
+    ],
+    "date": "2021-02-24",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-24T10:32:51-08:00",
+    "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2021-02-24-fun-with-reg-models/",
+    "title": "Fun with Reg models",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Vinita Vader",
+        "url": "www.vvader24.com"
+      }
+    ],
+    "date": "2021-02-24",
+    "categories": [],
+    "contents": "\nLook at this amazing plot!\n\n\nlibrary(tidyverse)\nggplot(mtcars, aes(disp,mpg))+\n  geom_point()+\n  geom_smooth()+\n  labs(title = \"A boring plot\")\n\n\n\n\n\n\n\n",
+    "preview": "posts/2021-02-24-fun-with-reg-models/fun-with-reg-models_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-02-24T10:44:36-08:00",
+    "input_file": "fun-with-reg-models.utf8.md"
+  }
+]
